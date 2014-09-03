@@ -1,0 +1,35 @@
+body {
+    background-color: orange;
+}    
+
+nav a {
+    color: darkblue;
+}
+
+#current-link{
+    text-decoration:none;
+}
+
+.uppercase {
+    text-transform: uppercase;
+    font-size: 30px;
+}
+
+img {
+    width: 500px;
+    height: auto;
+}
+
+h1 {
+    border: 2px dashed purple;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 50px;
+    margin-top: 0px;
+    margin-left: 250px;
+    margin-right: 500px;
+}
+
+p a{
+    color: yellow;
+}
