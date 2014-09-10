@@ -1,13 +1,14 @@
-body {
-    background-color: orange;
+#body {
+    background-image: url(http://www.picthewall.com/wp-content/uploads/2014/03/nook-wallpaper-cool-wallpaper-download-desktop-backgrounds-abstract-desktop-background-cool-backgrounds.jpg);
+    color: floralwhite;
 }    
 
 nav a {
-    color: darkblue;
+    color: green;
 }
 
 #current-link{
-    text-decoration:none;
+    text-decoration:dashed;
 }
 
 .uppercase {
@@ -17,19 +18,36 @@ nav a {
 
 img {
     width: 500px;
-    height: auto;
+    height: auto; 
 }
 
 h1 {
     border: 2px dashed purple;
     padding-top: 20px;
     padding-bottom: 20px;
-    padding-left: 50px;
+    padding-left: 85px;
     margin-top: 0px;
-    margin-left: 250px;
+    margin-left: 500px;
     margin-right: 500px;
 }
 
+img{
+       width: 500px;
+       height: auto;
+    }
+    #text {
+        color: floralwhite;
+    }
 p a{
-    color: yellow;
+    color: purple;
+}
+
+#body2 {
+    background-image: url('../images/diagram.jpg');
+    background-size: 100%;
+}
+#body3 {
+    background-image: url('../images/Cool Brobot.jpg');
+    background-size: 100%;
+    color: red;
 }
